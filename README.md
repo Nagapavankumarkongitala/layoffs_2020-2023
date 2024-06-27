@@ -1,7 +1,7 @@
 # layoffs_2020-2023
 Data Cleaning and EDA
 <p>This project is a bout the layoffs from the year 2020 to 2023.
-The Objective is to claen and per form the Exploratory data analysis</p> 
+The Objective is to clean and perform the Exploratory data analysis</p> 
 <p>The cleaning is performed in four steps</p>
 [1]. Remove Duplicates</br>
 [2]. Standardize the Data</br>
